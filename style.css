@@ -1,8 +1,14 @@
 header {
+    
     margin-top: -3rem;
     padding-top: 3rem;
     padding-bottom: .5rem;
     display: block;
+}
+
+h2{
+    position: relative;
+    top: 115px;
 }
 
 body {
@@ -54,8 +60,14 @@ button:hover {
     left: 150px;
 }
 
-.scoreboard {
+.info {
     position: relative;
     top: 250px;
     font-weight: bolder;
+}
+
+.scoreboard {
+    position: relative;
+    top: 250px;
+    font-weight:bolder;
 }
