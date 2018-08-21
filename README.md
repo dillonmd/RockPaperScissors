@@ -1,4 +1,4 @@
 # RockPaperScissors
 JS based Rock Paper Scissors
-For The Odin Project
+Great practice for DOM Manipulation and basic JS
 Play Here: https://dmd710.github.io/RockPaperScissors/
